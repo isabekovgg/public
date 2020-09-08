@@ -1,21 +1,21 @@
 # Main walk
 0:optimize_profile
+0:optimize_profile
+0:optimize_profile
 0:code
-1:code
-101:optimize_profile
+0:code
+0:code
+0:code
+0:code
+0:code
+0:code
 101:sell_skills
 101:sell_skills
-101:code
-102:code
-111:code
-211:optimize_profile
-211:sell_skills
-211:sell_skills
-212:sell_skills
-212:code
-222:code
-322:sell_skills
-# No more process doable at cyle 333
+101:sell_skills
+101:sell_skills
+101:sell_skills
+101:sell_skills
+# No more process doable at cyle 111
 # Stock :
 #  repos => 0
 #  transport => 0
